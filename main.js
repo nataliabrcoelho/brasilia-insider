@@ -112,7 +112,7 @@ nativeForm.addEventListener('submit', e => {
     (notes ? `Notes: ${notes}` : '')
   );
 
-  window.open(`https://wa.me/5561999999999?text=${msg}`, '_blank');
+  window.open(`https://wa.me/5561981075629?text=${msg}`, '_blank');
 });
 
 /* ── Concierge: Attraction Chips ── */
@@ -152,7 +152,7 @@ conciergeForm.addEventListener('submit', e => {
 
   // Open WhatsApp after short delay
   setTimeout(() => {
-    window.open(`https://wa.me/5561999999999?text=${msg}`, '_blank');
+    window.open(`https://wa.me/5561981075629?text=${msg}`, '_blank');
   }, 800);
 });
 
