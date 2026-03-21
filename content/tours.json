@@ -1,0 +1,75 @@
+{
+  "sectionEyebrow": "Our Tours",
+  "sectionTitle": "Choose your Brasília",
+  "sectionSubtitle": "Every tour is private, fully flexible, and led by a bilingual native of the city.",
+  "tours": [
+    {
+      "id": "photography",
+      "badge": "Most Popular",
+      "imgClass": "tour-img-arch",
+      "duration": "📷 Full Day · Hotel Pickup",
+      "title": "Iconic Photography Tour",
+      "description": "The definitive visual journey through Brasília. We start at your hotel and end at the Pontão — hitting every unmissable landmark along the way.",
+      "stops": ["🏨 Hotel pickup","⛪ Catedral Metropolitana","🏛️ Museu da República","🏛️ Praça dos Três Poderes","🏛️ Palácio do Itamaraty","🏛️ Palácio da Alvorada","🌉 Ponte JK","🌅 Pontão do Lago Sul"],
+      "price": "USD 120",
+      "priceLabel": "From"
+    },
+    {
+      "id": "power",
+      "badge": "",
+      "imgClass": "tour-img-power",
+      "duration": "🏛️ 3–4 hours · Private",
+      "title": "The Power of Brazil",
+      "description": "Go behind the architecture and discover how Brazil is governed. Visit the Palácio do Planalto, Supreme Court, and the congressional buildings at the heart of the republic.",
+      "stops": [],
+      "price": "USD 90",
+      "priceLabel": "From"
+    },
+    {
+      "id": "modernist",
+      "badge": "",
+      "imgClass": "tour-img-modernist",
+      "duration": "🏙️ 3–4 hours · Private",
+      "title": "Modernist Brasília",
+      "description": "Understand the urban genius behind the Pilot Plan. We explore the monumental axis and Lúcio Costa's original vision for the world's greatest planned city.",
+      "stops": [],
+      "price": "USD 90",
+      "priceLabel": "From"
+    },
+    {
+      "id": "hidden",
+      "badge": "",
+      "imgClass": "tour-img-hidden",
+      "duration": "🔍 3–4 hours · Private",
+      "title": "Hidden Brasília",
+      "description": "Skip the well-worn tourist trail. Discover architectural gems, secret viewpoints, and surprising corners that most visitors — and even many residents — never find.",
+      "stops": [],
+      "price": "USD 90",
+      "priceLabel": "From"
+    }
+  ],
+  "photoTour": {
+    "eyebrow": "Featured Experience",
+    "title": "The Iconic Photography Tour",
+    "subtitle": "A full-day journey through the most photogenic landmarks in Brasília, with hotel pickup and drop-off at the Pontão.",
+    "intro": "Oscar Niemeyer designed Brasília to be photographed. This tour is built around that idea. You'll have time at every stop to capture the light, the angles, and the stories — guided by someone who knows exactly where to stand.",
+    "price": "USD 120",
+    "includes": [
+      "Hotel pickup & drop-off at Pontão",
+      "Bilingual guide (English & Portuguese)",
+      "Best photo spots & composition tips",
+      "Stories behind every landmark",
+      "Flexible pace — you set the speed"
+    ],
+    "route": [
+      { "icon": "🏨", "title": "Hotel Pickup", "desc": "We start at your door — no taxis, no stress." },
+      { "icon": "⛪", "title": "Catedral Metropolitana", "desc": "Niemeyer's crown of thorns in glass and concrete. Stunning inside and out." },
+      { "icon": "🏛️", "title": "Museu da República (Museu JK)", "desc": "A floating dome of history, surrounded by reflecting pools." },
+      { "icon": "🇧🇷", "title": "Praça dos Três Poderes", "desc": "The symbolic center of Brazilian democracy — Congress, Planalto & Supreme Court in one frame." },
+      { "icon": "🏛️", "title": "Palácio do Itamaraty", "desc": "The Ministry of Foreign Affairs — arches reflected in still water. One of Niemeyer's finest." },
+      { "icon": "🏛️", "title": "Palácio da Alvorada", "desc": "The presidential residence, with its iconic curved colonnade reflected on the lakeside." },
+      { "icon": "🌉", "title": "Ponte JK", "desc": "Three asymmetric arches over Lake Paranoá — one of the most beautiful bridges in Brazil." },
+      { "icon": "🌅", "title": "Pontão do Lago Sul", "desc": "End the day at Brasília's favorite lakeside spot — bars, restaurants, and a perfect sunset view." }
+    ]
+  }
+}

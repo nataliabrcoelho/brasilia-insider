@@ -1,0 +1,16 @@
+{
+  "siteName": "Brasília Insider",
+  "tagline": "Private tours & local experiences in Brasília, Brazil.",
+  "whatsapp": "5561981075629",
+  "email": "hello@brasiliainsider.com",
+  "copyright": "© 2026 Brasília Insider. All rights reserved.",
+  "heroEyebrow": "Your local gateway to Brazil's capital",
+  "heroTitle": "See Brasília",
+  "heroSubtitle": "the way locals do",
+  "heroDescription": "Private tours, curated experiences & insider tips — guided by a bilingual native who actually knows this city.",
+  "heroStats": [
+    { "number": "12+", "label": "Years guiding" },
+    { "number": "300+", "label": "Five-star reviews" },
+    { "number": "100%", "label": "Private & flexible" }
+  ]
+}

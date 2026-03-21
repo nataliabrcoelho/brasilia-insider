@@ -1,0 +1,48 @@
+{
+  "airbnb": {
+    "eyebrow": "Airbnb Experience",
+    "title": "Get to Know Brasília with a Local",
+    "subtitle": "Discover Brasília through the eyes of someone who lives here. Choose up to 5 experiences from 10 options — we build your tour around you.",
+    "badge": "⭐ Available on Airbnb Experiences",
+    "intro": "Instead of a fixed itinerary, you choose what interests you most. When booking, you select up to five experiences from the list. During the tour (3–4 hours), we visit the places you chose and explore them together with your guide — a born-and-raised Brasiliense who speaks fluent English.",
+    "price": "USD 75",
+    "includes": [
+      "Local bilingual guide (English & Portuguese)",
+      "Flexible itinerary based on your choices",
+      "Historical & cultural explanations",
+      "Photo opportunities & insider stories"
+    ],
+    "items": [
+      { "id": "1", "num": "01", "icon": "🏛️", "title": "Iconic Architecture", "desc": "Cathedral, National Museum, Congress & Praça dos Três Poderes." },
+      { "id": "2", "num": "02", "icon": "⚖️", "title": "The Power of Brazil", "desc": "Planalto, Supreme Court & the political center of the country." },
+      { "id": "3", "num": "03", "icon": "📐", "title": "Modernist Brasília", "desc": "The Pilot Plan, Lúcio Costa's urban vision & the monumental axis." },
+      { "id": "4", "num": "04", "icon": "🔍", "title": "Hidden Brasília", "desc": "Gems, viewpoints & corners that most tourists never see." },
+      { "id": "5", "num": "05", "icon": "🏘️", "title": "Superquadra Life", "desc": "Daily life in Brasília — local shops, green areas & residential architecture." },
+      { "id": "6", "num": "06", "icon": "🎨", "title": "Art & Culture", "desc": "Cultural centers, the National Museum & public art across the city." },
+      { "id": "7", "num": "07", "icon": "📸", "title": "Best Views", "desc": "The most beautiful viewpoints of the city and Lake Paranoá." },
+      { "id": "8", "num": "08", "icon": "🚣", "title": "Lakeside Brasília", "desc": "The relaxed side of the city near Lake Paranoá — how locals unwind." },
+      { "id": "9", "num": "09", "icon": "☕", "title": "Food & Coffee Break", "desc": "A local café or bakery stop — Brazilian coffee, snacks & real conversation." },
+      { "id": "10", "num": "10", "icon": "🔬", "title": "Architecture Deep Dive", "desc": "For enthusiasts: a deeper look at Niemeyer's design concepts and legacy." }
+    ]
+  },
+  "native": {
+    "eyebrow": "Local Life",
+    "title": "Get to Know Brasília with a Native",
+    "subtitle": "Brasília is famous for being hard to explore on your own. The best spots — where locals actually eat, hang out, and spend their weekends — don't show up in guidebooks. We take you there.",
+    "valueProps": [
+      { "icon": "🚫", "title": "No tourist traps", "desc": "We skip the overpriced, overcrowded spots and take you where people actually go." },
+      { "icon": "🎯", "title": "Built around you", "desc": "Tell us your vibe and we design the experience on the fly — nothing is fixed in advance." },
+      { "icon": "✨", "title": "Genuinely unique", "desc": "No two experiences are the same. This one will be yours." }
+    ],
+    "vibes": [
+      { "id": "street-food", "emoji": "🥘", "title": "Street Food", "desc": "Pastelarias, food trucks & the kind of lunch spots only regulars know about." },
+      { "id": "nightlife", "emoji": "🎶", "title": "Music & Nightlife", "desc": "Live forró, bars in the 405 Sul, and whatever is happening tonight." },
+      { "id": "nature", "emoji": "🌿", "title": "Nature", "desc": "Cerrado trails, wild orchids & places where the city just disappears." },
+      { "id": "art", "emoji": "🎨", "title": "Art", "desc": "Street murals, gallery openings & the public installations most people walk past." },
+      { "id": "neighborhoods", "emoji": "🏘️", "title": "Neighborhoods", "desc": "Walk through a superquadra, visit a feira & feel what real life here is like." },
+      { "id": "sports", "emoji": "⚽", "title": "Sports", "desc": "From paddle courts to a Brasiliense match — the city's sporting soul." },
+      { "id": "history", "emoji": "📖", "title": "Hidden History", "desc": "The stories behind the construction — the candangos, the city's forgotten origins." },
+      { "id": "sunsets", "emoji": "🌇", "title": "Sunsets & Views", "desc": "The best sunset spots in the city — some so beautiful they don't feel real." }
+    ]
+  }
+}

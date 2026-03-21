@@ -1,0 +1,21 @@
+{
+  "eyebrow": "Concierge Service",
+  "title": "Build Your Own Itinerary",
+  "subtitle": "Not sure which tour to pick? Tell us which attractions interest you and we'll design a private experience just for you.",
+  "chips": [
+    { "id": "cathedral", "label": "⛪ Catedral Metropolitana" },
+    { "id": "museu-republica", "label": "🏛️ Museu da República" },
+    { "id": "tres-poderes", "label": "🇧🇷 Praça dos Três Poderes" },
+    { "id": "congresso", "label": "🏛️ Congresso Nacional" },
+    { "id": "itamaraty", "label": "🏛️ Palácio do Itamaraty" },
+    { "id": "alvorada", "label": "🏛️ Palácio da Alvorada" },
+    { "id": "planalto", "label": "⚖️ Palácio do Planalto" },
+    { "id": "stf", "label": "⚖️ Supremo Tribunal Federal" },
+    { "id": "ponte-jk", "label": "🌉 Ponte JK" },
+    { "id": "pontao", "label": "🌅 Pontão do Lago Sul" },
+    { "id": "museu-jk", "label": "🏛️ Memorial JK" },
+    { "id": "tv-tower", "label": "📡 TV Tower" },
+    { "id": "superquadra", "label": "🏘️ Superquadra (local neighborhood)" },
+    { "id": "lago", "label": "🚣 Lake Paranoá" }
+  ]
+}

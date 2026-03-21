@@ -1,0 +1,44 @@
+{
+  "eyebrow": "Where to Eat",
+  "title": "Brasília's Best Restaurants",
+  "subtitle": "Curated by a local — these are the places worth your time (and your appetite).",
+  "footerNote": "Want a dinner reservation? Our concierge service includes restaurant recommendations and reservations.",
+  "cuisines": [
+    {
+      "id": "brazilian",
+      "label": "🇧🇷 Contemporary Brazilian",
+      "restaurants": [
+        { "name": "Aquavit", "imgClass": "rest-br1", "tags": ["Contemporary","Lake Views"], "description": "Brasília's most celebrated upscale dining experience. Chef Caio Soter takes regional Brazilian ingredients and elevates them into something extraordinary. The tasting menu changes seasonally.", "mustTry": "Braised pork belly with pequi cream · Guará fish from the Cerrado rivers" },
+        { "name": "Mangai Brasília", "imgClass": "rest-br2", "tags": ["Buffet","Northeastern"], "description": "A sprawling celebration of northeastern Brazilian cuisine — over 100 dishes served fresh every day. The kind of lunch that makes you cancel your afternoon plans. Always packed, always worth it.", "mustTry": "Baião de dois · Carne de sol com macaxeira · Cocada for dessert" },
+        { "name": "Fogo de Chão", "imgClass": "rest-br3", "tags": ["Churrascaria","Classic"], "description": "The original Brazilian steakhouse experience. Gauchos carve tableside, the salad bar is a meal in itself, and the picanha is consistently the best in the city. A quintessential Brazilian ritual.", "mustTry": "Picanha · Fraldinha · Pão de queijo from the bread basket" }
+      ]
+    },
+    {
+      "id": "japanese",
+      "label": "🍣 Japanese & Nikkei",
+      "restaurants": [
+        { "name": "Kan Suke", "imgClass": "rest-jp1", "tags": ["Traditional Japanese","Chef's Table"], "description": "A quiet, intimate space where the chef's craft takes center stage. Brasília has a significant Japanese-Brazilian community and the quality of the fish here reflects it. Booking essential.", "mustTry": "Omakase menu · Tuna tataki · Yuzu sake pairing" },
+        { "name": "Nikkei 405", "imgClass": "rest-jp2", "tags": ["Nikkei Fusion","Trendy"], "description": "Where Japanese technique meets Brazilian flavors. The Nikkei cuisine of Brazil is its own distinct tradition and this restaurant does it better than almost anywhere in the city.", "mustTry": "Tiradito with passion fruit · Ceviche nikkei · Maki rolls with tropical fruit" },
+        { "name": "Kamy Sushi", "imgClass": "rest-jp3", "tags": ["Sushi Bar","Casual"], "description": "The neighborhood sushi spot that locals actually go to. No tourist pricing, no unnecessary theatre — just excellent fish and a warm, unpretentious atmosphere in the South Wing.", "mustTry": "Temaki tropeiro · Salmon skin rolls · Cold Sapporo draft" }
+      ]
+    },
+    {
+      "id": "mediterranean",
+      "label": "🫒 Mediterranean",
+      "restaurants": [
+        { "name": "Áttimo", "imgClass": "rest-md1", "tags": ["Italian","Fine Dining"], "description": "Refined Italian cooking with exceptional imported ingredients and a wine list that rivals São Paulo's best. The pasta is handmade daily and the tiramisu is the real version.", "mustTry": "Tagliolini al tartufo · Branzino in acqua pazza · Seasonal risotto" },
+        { "name": "Oliva", "imgClass": "rest-md2", "tags": ["Greek & Middle Eastern","Meze"], "description": "Share everything at this exuberant space in the South Wing. The meze plates keep coming and the lamb dishes are the best in Brasília by a wide margin. Loud, social, and absolutely delicious.", "mustTry": "Lamb saganaki · Hummus with lamb · Spanakopita · Baklava" },
+        { "name": "Leblon Grill", "imgClass": "rest-md3", "tags": ["Mediterranean-Brazilian","Lakeside"], "description": "A relaxed lakeside setting with a menu that spans the Mediterranean coast. The seafood is flown in fresh, the views of the lake are beautiful, and the weekend brunch is a Brasília institution.", "mustTry": "Grilled octopus · Grilled sea bass · Weekend brunch buffet" }
+      ]
+    },
+    {
+      "id": "cerrado",
+      "label": "🌿 Cerrado & Regional",
+      "restaurants": [
+        { "name": "Couve-Flor", "imgClass": "rest-cer1", "tags": ["Cerrado Cuisine","Tasting Menu"], "description": "The most adventurous restaurant in Brasília. Chef Ana Paula Junqueira forages and sources directly from the Cerrado savanna, creating dishes that taste like nowhere else on earth.", "mustTry": "Pequi risotto · Baru nut dessert · Piqui oil braised chicken" },
+        { "name": "Na Cozinha", "imgClass": "rest-cer2", "tags": ["Homestyle Regional","Lunch Only"], "description": "The kind of lunch your Brazilian grandmother would make if she lived in Brasília. Rotating daily specials, always sold out by 1pm. The rice and beans alone are worth the visit.", "mustTry": "Whatever the daily special is · Feijão tropeiro · Sopa de mocotó on Fridays" },
+        { "name": "Goiabeiras", "imgClass": "rest-cer3", "tags": ["Regional","Casual"], "description": "Central Brazilian cooking done simply and beautifully. The name comes from the guava tree, and guava appears in some form in almost every dish — including the most surprising desserts.", "mustTry": "Carne de sol plate · Goiabada com queijo mineiro · Guaraná caipirinha" }
+      ]
+    }
+  ]
+}
