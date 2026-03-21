@@ -5,6 +5,7 @@ export default defineStackbitConfig({
   stackbitVersion: '~0.6.0',
   ssgName: 'nextjs',
   nodeVersion: '18',
+  devCommand: 'node_modules/.bin/next dev --port {port}',
   contentSources: [
     new GitContentSource({
       rootPath: __dirname,
